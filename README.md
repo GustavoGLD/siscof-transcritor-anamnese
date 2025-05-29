@@ -99,7 +99,7 @@ Desenvolvido com os **Serviços Cognitivos da Azure** para transcrição de voz,
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/your-org/siscof-transcriber.git
+   git clone https://github.com/GustavoGLD/siscof-transcriber.git
    cd siscof-transcriber
    ```
 
