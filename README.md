@@ -6,7 +6,7 @@
 
 ## 🩺 Visão Geral
 
-O **SISCOF Transcriber** é uma aplicação web baseada em Python, projetada para ajudar médicos e psicólogos a acelerarem a anamnese de pacientes por meio de:
+O **SISCOF Transcrição e Anamnese** é uma aplicação web baseada em Python, projetada para ajudar médicos e psicólogos a acelerarem a anamnese de pacientes por meio de:
 
 * Captura e transcrição de consultas em tempo real
 * Transcrição com diarização de falantes (identificando “Pessoa 1”, “Pessoa 2”, etc.)
