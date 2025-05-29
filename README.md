@@ -46,6 +46,11 @@ Desenvolvido com os **Serviços Cognitivos da Azure** para transcrição de voz,
    * Gerenciamento de estado seguro entre threads
 
 ---
+## 📷 Imagens
+
+![2024-07-17_14-54](https://github.com/user-attachments/assets/c3d8730c-974e-484d-9c19-44c3b33fb909)
+![2024-07-17_12-50](https://github.com/user-attachments/assets/2f0903a4-4a5a-4ffb-a07d-223295b3b82e)
+
 
 ## 🏗 Arquitetura & Estrutura de Código
 
